@@ -60,7 +60,7 @@ h1{
     transform: translateY(-10px);
     opacity: 1;
     transition: .3s linear;
-    animation: odsoky 1s ease-in-out infinite  alternate;
+    animation: odsoky 1s ease-in-out infinite  alternate; 
 }
 
 @keyframes odsoky {
